@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Local Got Talent Home</string>
+    <string name="image">image</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+
+    <string name="nav_title_item1">Home</string>
+    <string name="web_link_home">https://application.localgottalent.com/</string>
+
+    <string name="nav_title_item2">LGT Contact Us</string>
+    <string name="web_link_item2">https://application.localgottalent.com/user-support</string>
+
+    <string name="nav_title_item3">LGT Referral</string>
+    <string name="web_link_item3">https://application.localgottalent.com/customer-referral</string>
+
+    <string name="nav_title_item4">Become A Provider</string>
+    <string name="web_link_item4">https://register.localgottalent.com</string>
+
+    <string name="title_communicate">Communicate</string>
+    <string name="nav_title_item5">Rate App</string>
+    <string name="nav_title_item6">Share App</string>
+    <string name="nav_title_item7">Privacy Policy</string>
+    <string name="nav_title_item8">About Us</string>
+    <string name="nav_title_item9">Exit</string>
+
+    <string name="admob_app_id">ca-app-pub-9141146483717028~2791668266</string>
+
+    <string name="about_us_developer">Company Name</string>
+    <string name="about_us_developer_name">Red Sun IT Services</string>
+    <string name="about_us_email">Email</string>
+    <string name="about_us_email_text">support@localgottalent.com</string>
+    <string name="about_us_contact">Contact</string>
+    <string name="about_us_contact_text">"+92 334 0099852</string>
+    <string name="about">About</string>
+    <string name="about_description">Local Got Talent is a platform where we connect different communities with our Skilled and Professional Workers for their Home Service i.e. Electrician, Plumber / Handyman, HVAC (AC Maintenance), Housekeeping (Home Maid), Mason, Carpenter, Tutor, Beautician, Tailor (Fashion Designer), Home Cooking, Artists, Graphic Designing and much more.
+        Local Got Talent is also a platform for those who have skills in the above-mentioned services and want to serve and earn some handsome money. Signup Now and get Rs.500. 🤑
+    </string>
+
+    <string name="sure_quit">Are you sure you want to quit?</string>
+    <string name="exit">Exit</string>
+    <string name="cancel">Cancel</string>
+</resources>
